@@ -1,5 +1,4 @@
 galletitas 
 pan 
 limpieza
-banana 
-palta manzana
+
